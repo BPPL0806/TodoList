@@ -1,0 +1,5 @@
+A:\Projekty\C#\Todo List\Todo List\bin\Release\net6.0-windows\publish\Todo List.exe
+A:\Projekty\C#\Todo List\Todo List\bin\Release\net6.0-windows\publish\Todo List.dll
+A:\Projekty\C#\Todo List\Todo List\bin\Release\net6.0-windows\publish\Todo List.deps.json
+A:\Projekty\C#\Todo List\Todo List\bin\Release\net6.0-windows\publish\Todo List.runtimeconfig.json
+A:\Projekty\C#\Todo List\Todo List\bin\Release\net6.0-windows\publish\Todo List.pdb

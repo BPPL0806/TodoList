@@ -1,0 +1,18 @@
+A:\Projekty\C#\Todo List\Todo List\bin\Debug\net6.0-windows\Todo List.exe
+A:\Projekty\C#\Todo List\Todo List\bin\Debug\net6.0-windows\Todo List.deps.json
+A:\Projekty\C#\Todo List\Todo List\bin\Debug\net6.0-windows\Todo List.runtimeconfig.json
+A:\Projekty\C#\Todo List\Todo List\bin\Debug\net6.0-windows\Todo List.dll
+A:\Projekty\C#\Todo List\Todo List\bin\Debug\net6.0-windows\Todo List.pdb
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.csproj.AssemblyReference.cache
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo_List.Form1.resources
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo_List.Properties.Resources.resources
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.csproj.GenerateResource.cache
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.AssemblyInfoInputs.cache
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.AssemblyInfo.cs
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.csproj.CoreCompileInputs.cache
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.dll
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\refint\Todo List.dll
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.pdb
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\Todo List.genruntimeconfig.cache
+A:\Projekty\C#\Todo List\Todo List\obj\Debug\net6.0-windows\ref\Todo List.dll
